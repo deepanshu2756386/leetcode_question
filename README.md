@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/deepanshu2756386/leetcode_question/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
