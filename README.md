@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deepanshu2756386/leetcode_question/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/deepanshu2756386/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepanshu2756386/leetcode_question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepanshu2756386/leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0511-game-play-analysis-i) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/deepanshu2756386/leetcode_question/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/deepanshu2756386/leetcode_question/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
