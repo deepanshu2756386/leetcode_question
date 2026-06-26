@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/deepanshu2756386/leetcode_question/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/deepanshu2756386/leetcode_question/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/deepanshu2756386/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/deepanshu2756386/leetcode_question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/deepanshu2756386/leetcode_question/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
