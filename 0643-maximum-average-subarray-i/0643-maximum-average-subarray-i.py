@@ -5,6 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: float
         """
+        n = len(nums)
+        if n < k:
+            return 0 
         window_sum = sum(nums[:k])
         max_sum = window_sum
         for i in range(len(nums)-k):
