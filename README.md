@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/deepanshu2756386/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepanshu2756386/leetcode_question/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/deepanshu2756386/leetcode_question/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/deepanshu2756386/leetcode_question/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
