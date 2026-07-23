@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/deepanshu2756386/leetcode_question/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/deepanshu2756386/leetcode_question/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/deepanshu2756386/leetcode_question/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/deepanshu2756386/leetcode_question/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/deepanshu2756386/leetcode_question/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0511-game-play-analysis-i) |
