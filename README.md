@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/deepanshu2756386/leetcode_question/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/deepanshu2756386/leetcode_question/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/deepanshu2756386/leetcode_question/tree/master/0620-not-boring-movies) |
 ## Hash Table
 |  |
 | ------- |
