@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/deepanshu2756386/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/deepanshu2756386/leetcode_question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/deepanshu2756386/leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/deepanshu2756386/leetcode_question/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Array
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/deepanshu2756386/leetcode_question/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
