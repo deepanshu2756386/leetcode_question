@@ -10,22 +10,21 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        curr = head
-        l = 0
-        while curr != None:
-            curr = curr.next
-            l +=1
+        p1 = head
+        p2 = head
+        for i in range(n):
+            p2 =p2.next
 
-        if n == l:
+        if p2 == None:
             return head.next
 
-        curr = head
-        for i in range(l-n-1):
-             curr = curr.next
+        while p2.next !=None:
+            p1 = p1.next
+            p2 = p2.next 
 
-        curr.next =curr.next.next
+        p1.next = p1.next.next
 
         return head
-        
+
      
         
