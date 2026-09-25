@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu2756386/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu2756386/leetcode_question/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu2756386/leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -172,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu2756386/leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
