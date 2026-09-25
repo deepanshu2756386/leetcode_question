@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deepanshu2756386/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshu2756386/leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/deepanshu2756386/leetcode_question/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshu2756386/leetcode_question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu2756386/leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
