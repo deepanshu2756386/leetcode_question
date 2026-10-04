@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/deepanshu2756386/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu2756386/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/deepanshu2756386/leetcode_question/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu2756386/leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu2756386/leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/deepanshu2756386/leetcode_question/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
