@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/deepanshu2756386/leetcode_question/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu2756386/leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu2756386/leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu2756386/leetcode_question/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu2756386/leetcode_question/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/deepanshu2756386/leetcode_question/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deepanshu2756386/leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu2756386/leetcode_question/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu2756386/leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu2756386/leetcode_question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/deepanshu2756386/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu2756386/leetcode_question/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu2756386/leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu2756386/leetcode_question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu2756386/leetcode_question/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/deepanshu2756386/leetcode_question/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/deepanshu2756386/leetcode_question/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu2756386/leetcode_question/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/deepanshu2756386/leetcode_question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
